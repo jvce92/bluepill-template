@@ -1,0 +1,6 @@
+[submodule "third-party/libopencm3"]
+	path = third-party/libopencm3
+	url = git@github.com:jvce92/libopencm3.git
+[submodule "third-party/FreeRTOS"]
+	path = third-party/FreeRTOS
+	url = git@github.com:jvce92/FreeRTOS.git
