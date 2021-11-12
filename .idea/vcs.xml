@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/AWS/device-defender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/AWS/device-shadow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/AWS/jobs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/AWS/ota" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/AWS/ota/source/dependency/3rdparty/tinycbor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/AWS/ota/source/dependency/coreJSON" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/Application-Protocols/coreHTTP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/Application-Protocols/coreHTTP/source/dependency/3rdparty/http_parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/Application-Protocols/coreMQTT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/Application-Protocols/coreMQTT-Agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/Application-Protocols/coreMQTT-Agent/source/dependency/coreMQTT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/Application-Protocols/coreSNTP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/FreeRTOS-Cellular-Interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/FreeRTOS-Cellular-Interface/test/cbmc/aws-templates-for-cbmc-proofs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/FreeRTOS-Cellular-Interface/test/cbmc/litani" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/FreeRTOS-Cellular-Interface/test/unit-test/CMock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/FreeRTOS-Plus-TCP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/Utilities/backoff_algorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/coreJSON" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/corePKCS11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Source/corePKCS11/source/dependency/3rdparty/pkcs11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/Test/CMock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/ThirdParty/mbedtls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS-Plus/ThirdParty/wolfSSL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS/Demo/ThirdParty/Community-Supported-Demos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS/Demo/ThirdParty/Partner-Supported-Demos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS/Source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS/Source/portable/ThirdParty/Community-Supported-Ports" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS/Source/portable/ThirdParty/Partner-Supported-Ports" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS/Test/CMock/CMock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/FreeRTOS/FreeRTOS/Test/litani" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/libopencm3" vcs="Git" />
+  </component>
+</project>
