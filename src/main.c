@@ -13,7 +13,7 @@ void task_blink(void *args __attribute__((unused)))
     while (1)
     {
         gpio_toggle(GPIOC, GPIO13);
-        vTaskDelay(pdMS_TO_TICKS(1000));
+        vTaskDelay(pdMS_TO_TICKS(100));
     }
 }
 
