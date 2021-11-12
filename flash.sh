@@ -1,0 +1,1 @@
+st-flash --flash=64k write ${BUILD_DIR}/src/${PROJECT_NAME}.bin 0x8000000
